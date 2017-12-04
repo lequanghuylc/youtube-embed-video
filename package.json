@@ -2,7 +2,7 @@
   "name": "youtube-embed-video",
   "version": "1.0.2",
   "description": "Youtube embed video component",
-  "main": "dist/youtube.js",
+  "main": "src/youtube.js",
   "repository": {
     "url": "https://github.com/Tiendq/youtube-embed-video.git",
     "type": "git"
